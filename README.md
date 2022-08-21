@@ -1,4 +1,4 @@
-# DupeChecker_v2.5.jar
+# DupeChecker_v2.4.jar
 An up and coming skyblock mod that shows the uuid of an item to dupe check it to prove its real and not duped
 How to use:
 
